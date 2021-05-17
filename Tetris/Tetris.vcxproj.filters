@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="0.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="1.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="2.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="3.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="4.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="5.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="6.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="7.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="8.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="9.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="affSB.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="background.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="bleu.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="cyan.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="fond.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="frame.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="game.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="gameover.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="gris.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="jaune.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="magenta.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="next.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="niveau.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="options.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="orange.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="quit.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="record.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="rouge.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="score.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="scoreboard.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="solo.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="tabSB.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="tetris.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="vert.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="victory.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+    <Image Include="vs.bmp">
+      <Filter>Fichiers de ressources</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="button.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="ordi.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="solo.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="tetrimino.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="button.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ordi.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="solo.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+    <ClCompile Include="tetrimino.cpp">
+      <Filter>Fichiers sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="CMakeLists.txt">
+      <Filter>Fichiers sources</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
